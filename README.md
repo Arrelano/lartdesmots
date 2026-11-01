@@ -1,5 +1,5 @@
-# Verve
+# Dr Faconde
 
-Site de présentation de l'application Verve : présentation, politique de confidentialité et mentions légales.
+Site de présentation de l'application Dr Faconde : présentation, politique de confidentialité et mentions légales.
 
 https://arrelano.github.io/lartdesmots/
