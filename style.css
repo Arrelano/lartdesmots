@@ -42,3 +42,5 @@ h2{font:700 1.7rem/1.2 var(--display);margin:36px 0 12px}
 .tbl{overflow-x:auto}
 footer{border-top:1px solid var(--line);margin-top:50px;padding:24px 0 40px;color:var(--muted);font-size:.92rem}
 footer a{color:var(--muted);margin-right:16px}
+
+.hero .perso{width:min(220px,55vw);height:auto;display:block;margin:0 0 18px;border-radius:22%}
