@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://drfaconde.fr/sitemap.xml
